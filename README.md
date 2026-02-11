@@ -19,7 +19,8 @@ O sensor CARABAS-II opera na banda VHF (20–90 MHz), o que permite a detecção
 
 * `.gitignore`: Configuração para ignorar arquivos temporários e binários pesados.
 * `LICENSE`: Licença GNU GPLv3 para proteção de autoria e código aberto acadêmico.
-* `carabas_images_reading_exemple.py`: Script robusto para gerenciamento de diretórios e carregamento de imagens em formato bruto (*IMREAD_UNCHANGED*).
+* `carabas_images_reading.py`: Script exemplo para gerenciamento de diretórios e carregamento de imagens do CARABAS-II
+* `caravas_images_process.py`: Script exemplo para processamento do dataset original e técnicas de processamento digital de imagens.
 
 ## 🚀 Metodologia
 
